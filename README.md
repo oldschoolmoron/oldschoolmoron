@@ -75,15 +75,15 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> 
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/> 
-  </a>
+  </a> -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
-  </a>
+  </a> -->
 
   <!-- Database -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -115,4 +115,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a>
+  
 </p>
+
+## **📊 GitHub Stats:**
+![](https://github-readme-stats.vercel.app/api?username=oldskoolmoron&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oldskoolmoron&theme=github_dark&include_all_commits=false&count_private=true&layout=compact)
