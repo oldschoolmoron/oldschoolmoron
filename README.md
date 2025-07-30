@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oldskoolmoron&label=Profile%20views&color=0e75b6&style=flat" alt="oldskoolmoron" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oldschoolmoron&label=Profile%20views&color=0e75b6&style=flat" alt="oldskoolmoron" /> </p>
 <p align="left"> <a href="https://twitter.com/kodegambler" target="blank"><img src="https://img.shields.io/twitter/follow/kodegambler?logo=twitter&style=for-the-badge" alt="kodegambler" /></a> </p>
 
 - 💬 Ask me about **building full-stack web applications, solving backend challenges with Node.js, designing APIs, or implementing blockchain solutions like smart contracts and decentralized apps (dApps).**
