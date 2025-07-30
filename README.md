@@ -116,5 +116,5 @@
 </p>
 
 ## **📊 GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=oldskoolmoron&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oldskoolmoron&theme=github_dark&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=oldschoolmoron&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oldschoolmoron&theme=github_dark&include_all_commits=false&count_private=true&layout=compact)
