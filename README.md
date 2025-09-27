@@ -1,13 +1,6 @@
 [![Masterhead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://devdotmoron.com)
 <h1 align="center">Hi there, I'm Ananya Pathak</h1>
 <h3 align="center">A passionate full-stack developer exploring the decentralized future with blockchain technology, straight from India!</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400" />
-</p>
-
-<p align="left"> <a href="https://twitter.com/kodegambler" target="blank"><img src="https://img.shields.io/twitter/follow/kodegambler?logo=twitter&style=for-the-badge" alt="kodegambler" /></a> </p>
-
 - 💬 Ask me about **building full-stack web applications, solving backend challenges with Node.js, designing APIs, or implementing blockchain solutions like smart contracts and decentralized apps (dApps).**
 
 - 📫 How to reach me **ananyapk043@gmail.com**
