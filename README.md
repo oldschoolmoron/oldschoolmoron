@@ -1,8 +1,6 @@
 [![Masterhead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://devdotmoron.com)
 <h1 align="center">Hi there, I'm Ananya Pathak</h1>
-- I’m a Software Developer with 2.8 years of experience at BT Group, working with Java, Spring Boot, and Microservices.
-
-Alongside this, I’m learning and exploring full-stack web development, backend development with Node.js, and blockchain technologies such as smart contracts and decentralized applications (dApps).
+- Hi, I'm a programmer with experience in backend development, and currently exploring blockchain, and I'm open to part-time or contractual roles.
 
 - How to reach me **ananyapk043@gmail.com**
 
