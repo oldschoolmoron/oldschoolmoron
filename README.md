@@ -4,8 +4,5 @@ Hi, I'm a programmer with experience in backend development, and currently explo
 
 How to reach me **ananyapk043@gmail.com**
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oldschoolmoron&show_icons=true&theme=tokyonight&hide_border=false&custom_title=GitHub+Stats+📊)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldschoolmoron&layout=compact&theme=github_dark&count_private=true&include_all_commits=true&v=1)
 
